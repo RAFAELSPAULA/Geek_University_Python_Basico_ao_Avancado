@@ -1,0 +1,9 @@
+abc
+ebc
+ibc
+obc
+ubc*bc
+*bc
+*bc
+*bc
+*bc
